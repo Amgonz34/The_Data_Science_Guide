@@ -15,3 +15,5 @@ This repository is to act as both a cheat sheet and a hub for my data science no
 3. Data Analysis
     1.  Data visualizations in python 
     2.  Data Story telling and power point
+4. Other
+    1. Readme cheat sheet   
